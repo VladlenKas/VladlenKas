@@ -1,4 +1,4 @@
-# Hi, I'm Vladlen Kasimov
+# Hi, I'm Vladlen
 Development of modern desktop applications for educational institutions and logistics companies.
 
 ## 🔍 About Me
