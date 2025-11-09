@@ -17,5 +17,7 @@ Software developer building C# WPF apps, SQL databases, and clean UI/UX solution
 
 **[WPF-College-CourierFirm](https://github.com/VladlenKas/WPF-College-CourierFirm)** — Courier firm management desktop application. Stack: C# WPF, MySQL. 
 
+**[Avalonia_GoldenBread](https://github.com/VladlenKas/Avalonia_GoldenBread)** — The Golden Bread application for employee management and customer service. Built on Web API and PostgreSQL. Stack: C# Avalonia, PostgreSQL, JavaScript, Web API. 
+
 ##
 📫 If you visited my profile as a resume viewer, I hope for our cooperation soon!
